@@ -1,10 +1,6 @@
 (function($) {
   "use strict"; // Start of use strict
-
-  particlesJS.load('particles-js', '../vendor/particles.js/demo/particles.json', function() {
-    console.log('callback - particles.js config loaded');
-  });
-
+  
   // Closes the sidebar menu
   $(".menu-toggle").click(function(e) {
     e.preventDefault();

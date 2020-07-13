@@ -63,18 +63,8 @@
   <header>
     <div id="particles-js">
       <div class="masthead bg-black" style="position: absolute; z-index:-1;">
-        <div class="text-center text-light">
-          <div class="css-typing">
-            <p style="font-size: 10rem;">
-              Rajan Patel.
-            </p>
-            <p style="font-size: 10rem;">
-              Software Engineer. 
-            </p>
-            <p style="font-size: 10rem;">
-              Scroll down!
-            </p>
-          </div>
+        <div class="container text-center text-light" style="position:absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+          <h1 class="multipleStrings"></h1>
         </div>
       </div>
     </div>
@@ -606,6 +596,7 @@
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="vendor/particles.js/particles.js"></script>
+
   
   <!-- Plugin JavaScript -->
   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
@@ -613,6 +604,18 @@
   <!-- Custom scripts for this template -->
   <script src="js/stylish-portfolio.min.js"></script>
   <script src="vendor/tilt.js/dest/tilt.jquery.min.js"></script> <!-- Load Tilt.js library -->
+  <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+  <script>
+    new TypeIt(".multipleStrings", {
+      strings: ["Rajan Patel.", "Software Engineer."],
+      speed: 5,
+      waitUntilVisible: true,
+      lifeLike: true,
+      cursor: true,
+      loop: true
+    }).go();
+  </script>
+
 </body>
 
 </html>

@@ -5,7 +5,7 @@
   rajanpatel97.github.io
 </h1>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/rajanpatel/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/a960ad78-6832-4dfe-94b6-cf586e77f86b/deploy-status" alt="Netlify Status" />
   </a>
 </p>

@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2018-12-01'
 title: 'Fair Valuation of the S&P 500 Index'
 github: ''
 external: 'https://drive.google.com/file/d/17pJ6oIsV7lcHfjW9TF1q7ABuDQY1sj9I/view?usp=sharing'

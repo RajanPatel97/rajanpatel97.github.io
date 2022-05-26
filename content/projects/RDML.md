@@ -1,5 +1,5 @@
 ---
-date: '2018-12-12'
+date: '2018-12-29'
 title: 'Representation and Distance Metric Learning'
 github: 'https://github.com/RajanPatel97/Representation-and-Distance-Metric-Learning'
 external: 'https://drive.google.com/file/d/1jYXAiC39Ummc8dlT4foGl-Vob9DKcT_1/view?usp=sharing'
